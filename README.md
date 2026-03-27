@@ -1,5 +1,9 @@
 # HackRF-GSM
 Testin
+
+p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fattcat.HackRF-GSM" alt="Visitors"/>
+
 # Terminal 1 – capture
 grgsm_livemon -f 947.6M -g 40
 
