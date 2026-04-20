@@ -1,6 +1,6 @@
 # HackRF-GSM
-Testin
-
+Testing
+- for educational purposes only !
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Fattcat.HackRF-GSM" alt="Visitors"/>
 
